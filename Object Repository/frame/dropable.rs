@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>dropable</name>
+   <tag></tag>
+   <elementGuidId>365ee125-5e15-402d-9801-36a78812a50b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>list-payment-logo</value>
+      <webElementGuid>a4c67d5e-322e-4297-a7dd-f1e46db5be5e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/frame/iframe</value>
+      <webElementGuid>d34a412c-dc82-4503-a61b-f4029c8d6cf5</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

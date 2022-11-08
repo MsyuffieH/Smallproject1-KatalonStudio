@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>test</name>
+   <tag></tag>
+   <elementGuidId>95aaa96f-fc1c-4324-bfdf-86487f6ada02</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//iframe[@src='https://api.sandbox.midtrans.com/v2/token/rba/redirect/48111111-1114-76908bb8-7ee1-4036-a9d7-683eabdab521']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//iframe[@src='https://api.sandbox.midtrans.com/v2/token/rba/redirect/48111111-1114-76908bb8-7ee1-4036-a9d7-683eabdab521']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//iframe[@src='https://api.sandbox.midtrans.com/v2/token/rba/redirect/48111111-1114-76908bb8-7ee1-4036-a9d7-683eabdab521']</value>
+      <webElementGuid>90b95202-2517-4ee4-abc5-3bcb3113638f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/frame/iframe</value>
+      <webElementGuid>54c31bfe-a2f2-452e-a1c5-7f31d09133ef</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

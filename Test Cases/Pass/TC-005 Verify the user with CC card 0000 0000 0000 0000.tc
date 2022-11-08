@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-005 Verify the user with CC card 0000 0000 0000 0000</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>eca5695f-02fe-438f-b5e5-d1e6adc75b7b</testCaseGuid>
+</TestCaseEntity>

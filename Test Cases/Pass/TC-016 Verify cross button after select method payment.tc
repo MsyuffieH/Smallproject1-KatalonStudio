@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-016 Verify cross button after select method payment</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c7b36726-2c3f-460f-97b3-0e1fc81f6ae6</testCaseGuid>
+</TestCaseEntity>

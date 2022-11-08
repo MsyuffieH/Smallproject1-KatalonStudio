@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-001 Verify the user can pay using a valid CC card without input expiration date and cvv</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>47156f0f-64f9-4d7b-9a7a-b7cae1f68b71</testCaseGuid>
+</TestCaseEntity>

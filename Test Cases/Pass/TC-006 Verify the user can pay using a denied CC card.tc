@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-006 Verify the user can pay using a denied CC card</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dfc547d7-99f8-49dd-9f53-209e1ccab421</testCaseGuid>
+</TestCaseEntity>

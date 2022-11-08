@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-008 Verify postal code using 00000000000000</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a5b71c7f-2d2a-4f94-a567-3dcb521e1a28</testCaseGuid>
+</TestCaseEntity>

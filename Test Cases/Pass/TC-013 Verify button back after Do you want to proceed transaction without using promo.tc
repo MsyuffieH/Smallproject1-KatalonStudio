@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-013 Verify button back after Do you want to proceed transaction without using promo</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d5fa44bb-e164-4f6f-b036-efceb0b5784d</testCaseGuid>
+</TestCaseEntity>

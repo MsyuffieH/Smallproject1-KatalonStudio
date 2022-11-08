@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-003 Payment token button verification canceled</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bb72465c-359e-4a80-a9cd-99898ab0a990</testCaseGuid>
+</TestCaseEntity>
